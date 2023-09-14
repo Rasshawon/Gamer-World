@@ -197,7 +197,7 @@ li.follow {
 
 #gamer {
     margin-top: 50px;
-    background-image:url(image/we.png);
+    background-image:url('image/we.png');
     background-repeat: no-repeat;
     padding: 95px 0;
 }
