@@ -171,11 +171,11 @@ li.follow {
     margin-right: 12px;
 }
 .banner-content ul li.play::before {
-    content: url('/image/icons/video-icon-1.svg');
+    content: url('image/icons/video-icon-1.svg');
 }
 
 .banner-content ul li.download::before {
-    content: url('/image/icons/download.svg');
+    content: url('image/icons/download.svg');
 }
 
 .banner-content ul li.people::before {
@@ -197,7 +197,7 @@ li.follow {
 
 #gamer {
     margin-top: 50px;
-    background-image:url(/image/we.png);
+    background-image:url(image/we.png);
     background-repeat: no-repeat;
     padding: 95px 0;
 }
